@@ -2,7 +2,7 @@
 
 My journey into computer science began with a passion for competitive programming, where I earned a silver medal in the NOI 🥈 and a gold medal in the ICPC Regionals 🏅. This experience built a strong foundation in algorithms and problem-solving.
 
-Now, as a second-year student at **Beijing University of Posts and Telecommunications (BUPT)**, I'm channeling that passion into the field of deep learning, with a current focus on **Diffusion Models**.
+Now, as a second-year undergraduate student at **Beijing University of Posts and Telecommunications (BUPT)**, I'm channeling that passion into the field of deep learning, with a current focus on **Diffusion Models**.
 
 ---
 

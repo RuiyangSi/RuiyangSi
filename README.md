@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm RuiyangSi(司睿洋) 👋</h1>
+<h1 align="center">Hi there, I'm Ruiyang Si(司睿洋) 👋</h1>
 
 My journey into computer science began with a passion for competitive programming, where I earned a silver medal in the NOI 🥈 and a gold medal in the ICPC Regionals 🏅. This experience built a strong foundation in algorithms and problem-solving.
 

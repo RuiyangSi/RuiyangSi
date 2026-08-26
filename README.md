@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ruiyang Si (司睿洋) 👋</h1>
 
-I am a fourth-year undergraduate student majoring in Computer Science and Technology at Beijing University of Posts and Telecommunications (BUPT). In Fall 2027, I will join Peking University for my graduate studies, supervised by Prof. [Daquan Zhou](https://zhoudaquan.github.io/homepage.io/). I am currently a member of [DAGroup](https://github.com/DAGroup-PKU).
+I am a fourth-year undergraduate student majoring in Computer Science and Technology at Beijing University of Posts and Telecommunications (BUPT).
 
 My journey in CS began with competitive programming, building a strong algorithmic foundation that has naturally transitioned into my current research. My current research focuses on **self-improvement agents** and **robotics**.
 

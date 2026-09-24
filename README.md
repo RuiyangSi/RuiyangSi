@@ -8,7 +8,7 @@ My journey in CS began with competitive programming, building a strong algorithm
 
 ### ⚡️ Quick Overview
 
-* 👨‍🎓 **Education**: Computer Science & Tech @ **BUPT** (Rank **1/360**, Expected 2027)
+* 👨‍🎓 **Education**: Computer Science & Tech @ **BUPT** (Rank **1/376**, Expected 2027)
 * 🏆 **Honors**:
   * **SenseTime Scholarship**（30 undergraduates nationwide）
   * **National Scholarship** (2024, 2025，2026)

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ruiyang Si (司睿洋) 👋</h1>
 
-I am a fourth-year undergraduate student majoring in Computer Science and Technology at Beijing University of Posts and Telecommunications (BUPT).
+I am a senior undergraduate in Computer Science and Technology at BUPT and an incoming Master's student at Peking University, advised by Prof. Daquan Zhou. I am currently a member of DAGroup.
 
 My journey in CS began with competitive programming, building a strong algorithmic foundation that has naturally transitioned into my current research. My current research focuses on **self-improvement agents** and **robotics**.
 
@@ -11,7 +11,7 @@ My journey in CS began with competitive programming, building a strong algorithm
 * 👨‍🎓 **Education**: Computer Science & Tech @ **BUPT** (Rank **1/360**, Expected 2027)
 * 🏆 **Honors**:
   * **SenseTime Scholarship**（30 undergraduates nationwide）
-  * **National Scholarship** (2024, 2025)
+  * **National Scholarship** (2024, 2025，2026)
   * **Silver Medal** in NOI (National Olympiad in Informatics) 🥈
   * **Gold Medalist** in ICPC / CCPC / CCF-CCSP 🏅
   * **CCF Elite Collegiate Award** (Top 100 nationwide)
